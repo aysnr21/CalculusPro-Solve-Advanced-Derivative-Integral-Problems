@@ -1,0 +1,18 @@
+
+.question-box {
+  margin-top: 20px;
+}
+.option-list {
+  list-style-type: none;
+  padding: 0;
+}
+.option-list li {
+  background: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.option-list li:hover {
+  background: #d0ebff;
+}
